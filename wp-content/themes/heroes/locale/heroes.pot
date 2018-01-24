@@ -1,0 +1,2615 @@
+# Translation of 
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-08-08 12:17+0300\n"
+"PO-Revision-Date: 2016-08-08 12:27+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: comments.php:21
+msgid "comments"
+msgstr ""
+
+#: comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: fastwp.theme.functions.php:64 extend/extend.visual-composer.php:1325
+msgid "Portfolio"
+msgstr ""
+
+#: fastwp.theme.functions.php:65
+msgid "Portfolio Item"
+msgstr ""
+
+#: fastwp.theme.functions.php:66
+msgid "Portfolio Items"
+msgstr ""
+
+#: fastwp.theme.functions.php:82 fastwp.theme.functions.php:84
+msgid "Members"
+msgstr ""
+
+#: fastwp.theme.functions.php:83
+msgid "Member"
+msgstr ""
+
+#: fastwp.theme.functions.php:100 fastwp.theme.functions.php:102
+#: extend/extend.visual-composer.php:1587
+msgid "Services"
+msgstr ""
+
+#: fastwp.theme.functions.php:101
+msgid "Service"
+msgstr ""
+
+#: fastwp.theme.functions.php:118 fastwp.theme.functions.php:120
+#: extend/extend.visual-composer.php:2068
+msgid "Testimonials"
+msgstr ""
+
+#: fastwp.theme.functions.php:119
+msgid "Testimonial"
+msgstr ""
+
+#: extend/extend.blog.php:73
+msgid " / "
+msgstr ""
+
+#: extend/extend.blog.php:180
+msgid "&lt; Previous"
+msgstr ""
+
+#: extend/extend.blog.php:189
+msgid "Next &gt;"
+msgstr ""
+
+#: extend/extend.blog.php:272
+msgid "Blog"
+msgstr ""
+
+#: extend/extend.blog.php:319
+msgid "SEARCH..."
+msgstr ""
+
+#: extend/extend.blog.php:342
+msgid "Field is required"
+msgstr ""
+
+#: extend/extend.blog.php:347
+msgid "Leave a comment"
+msgstr ""
+
+#: extend/extend.blog.php:348
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: extend/extend.blog.php:349
+msgid "Cancel Reply"
+msgstr ""
+
+#: extend/extend.blog.php:350
+msgid "Post Comment"
+msgstr ""
+
+#: extend/extend.blog.php:352
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: extend/extend.blog.php:357
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: extend/extend.blog.php:363
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: extend/extend.blog.php:370
+msgid "Your email address will not be published."
+msgstr ""
+
+#: extend/extend.blog.php:375
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: extend/extend.blog.php:386
+msgid "Name"
+msgstr ""
+
+#: extend/extend.blog.php:393
+msgid "Email"
+msgstr ""
+
+#: extend/extend.blog.php:399
+msgid "Website"
+msgstr ""
+
+#: extend/extend.blog.php:450
+msgid "Pingback:"
+msgstr ""
+
+#: extend/extend.blog.php:450
+msgid "(Edit)"
+msgstr ""
+
+#: extend/extend.blog.php:469
+#, php-format
+msgid "%1$s at %2$s,"
+msgstr ""
+
+#: extend/extend.blog.php:473
+msgid "Reply"
+msgstr ""
+
+#: extend/extend.blog.php:479
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: extend/extend.blog.php:500
+msgid "Main Widget Area"
+msgstr ""
+
+#: extend/extend.blog.php:502
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: extend/extend.shortcodes.php:66
+msgid ""
+"Used [fwp-hero-latest-projects] shortcode but no projects is added yet. "
+"<br>Please add at least one project before using this shortcode."
+msgstr ""
+
+#: extend/extend.shortcodes.php:117
+#, php-format
+msgid ""
+"Used <b>[fastwp-message]</b> shortcode with incorrect type parameter (<i><b>"
+"%s</b></i>)"
+msgstr ""
+
+#: extend/extend.shortcodes.php:230
+msgid ""
+"This shortcode works only <a href=\"https://wordpress.org/plugins/oauth-"
+"twitter-feed-for-developers/\">oAuth Twitter Feed</a> plugin."
+msgstr ""
+
+#: extend/extend.shortcodes.php:482
+msgid ""
+"Used [testimonials] shortcode but no testimonial is selected. <br>Please add "
+"at least one testimonial before using this shortcode."
+msgstr ""
+
+#: extend/extend.shortcodes.php:565
+msgid ""
+"Used [our-team] shortcode but no team member is selected. <br>Please add at "
+"least one member before using this shortcode."
+msgstr ""
+
+#: extend/extend.shortcodes.php:670
+msgid ""
+"Used [our-service] shortcode but no team services is selected. <br>Please "
+"add at least one member before using this shortcode."
+msgstr ""
+
+#: extend/extend.shortcodes.php:774
+msgid ""
+"Used [our-clients] shortcode but no client is defined. <br>Please add at "
+"least one client within this shortcode."
+msgstr ""
+
+#: extend/extend.shortcodes.php:963
+msgid ""
+"Used [portfolio] shortcode but no project is added yet. <br>Please add at "
+"least one project before using this shortcode."
+msgstr ""
+
+#: extend/extend.shortcodes.php:985
+msgid "Show All"
+msgstr ""
+
+#: extend/extend.shortcodes.php:1384
+msgid "Please visit your theme options and insert your Google Map API Key."
+msgstr ""
+
+#: extend/extend.shortcodes.php:1447
+msgid ""
+"Used [fwp-slider-bg] shortcode but no images are added yet. <br>Please "
+"select at least one image before using this shortcode."
+msgstr ""
+
+#: extend/extend.visual-composer.php:32
+msgid "Container width"
+msgstr ""
+
+#: extend/extend.visual-composer.php:42
+msgid "Overlay"
+msgstr ""
+
+#: extend/extend.visual-composer.php:52
+msgid "Padding top"
+msgstr ""
+
+#: extend/extend.visual-composer.php:63
+msgid "Padding bottom"
+msgstr ""
+
+#: extend/extend.visual-composer.php:83
+msgid "About Box"
+msgstr ""
+
+#: extend/extend.visual-composer.php:86 extend/extend.visual-composer.php:218
+#: extend/extend.visual-composer.php:273 extend/extend.visual-composer.php:349
+#: extend/extend.visual-composer.php:500 extend/extend.visual-composer.php:599
+#: extend/extend.visual-composer.php:698 extend/extend.visual-composer.php:805
+#: extend/extend.visual-composer.php:879 extend/extend.visual-composer.php:931
+#: extend/extend.visual-composer.php:1024
+#: extend/extend.visual-composer.php:1064
+#: extend/extend.visual-composer.php:1176
+#: extend/extend.visual-composer.php:1328
+#: extend/extend.visual-composer.php:1590
+#: extend/extend.visual-composer.php:1632
+#: extend/extend.visual-composer.php:1662
+#: extend/extend.visual-composer.php:1788
+#: extend/extend.visual-composer.php:1838
+#: extend/extend.visual-composer.php:1939
+#: extend/extend.visual-composer.php:2071
+#: extend/extend.visual-composer.php:2123
+#: extend/extend.visual-composer.php:2175
+#: extend/extend.visual-composer.php:2302
+#: extend/extend.visual-composer.php:2376
+msgid "Theme Elements"
+msgstr ""
+
+#: extend/extend.visual-composer.php:92
+msgid "About Box title tag"
+msgstr ""
+
+#: extend/extend.visual-composer.php:95
+msgid "You can select the AboutBox title tag - From H1 to H6"
+msgstr ""
+
+#: extend/extend.visual-composer.php:103
+msgid "Tag style"
+msgstr ""
+
+#: extend/extend.visual-composer.php:113
+msgid "AboutBox title color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:116
+msgid "Choose AboutBox title color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:122 extend/extend.visual-composer.php:373
+#: extend/extend.visual-composer.php:1681
+msgid "Icon color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:125
+msgid "Choose the icon color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:131 extend/extend.visual-composer.php:416
+#: extend/extend.visual-composer.php:705 extend/extend.visual-composer.php:709
+#: extend/extend.visual-composer.php:811 extend/extend.visual-composer.php:885
+#: extend/extend.visual-composer.php:1670
+msgid "Icon class"
+msgstr ""
+
+#: extend/extend.visual-composer.php:135
+msgid "Enter font-awesome icon class here. Ex: fa-facebook"
+msgstr ""
+
+#: extend/extend.visual-composer.php:141 extend/extend.visual-composer.php:507
+#: extend/extend.visual-composer.php:1227
+#: extend/extend.visual-composer.php:2217
+#: extend/extend.visual-composer.php:2331
+msgid "Title"
+msgstr ""
+
+#: extend/extend.visual-composer.php:145
+msgid "Enter the title here."
+msgstr ""
+
+#: extend/extend.visual-composer.php:151
+msgid "Title serif/small"
+msgstr ""
+
+#: extend/extend.visual-composer.php:155
+msgid "Enter the serif span style title here."
+msgstr ""
+
+#: extend/extend.visual-composer.php:161
+msgid "Paragraph content"
+msgstr ""
+
+#: extend/extend.visual-composer.php:165 extend/extend.visual-composer.php:846
+msgid "Enter your content here."
+msgstr ""
+
+#: extend/extend.visual-composer.php:172 extend/extend.visual-composer.php:383
+#: extend/extend.visual-composer.php:650
+#: extend/extend.visual-composer.php:1304
+#: extend/extend.visual-composer.php:1764
+#: extend/extend.visual-composer.php:1914
+#: extend/extend.visual-composer.php:2078
+#: extend/extend.visual-composer.php:2130
+#: extend/extend.visual-composer.php:2266
+msgid "Animated"
+msgstr ""
+
+#: extend/extend.visual-composer.php:175 extend/extend.visual-composer.php:386
+#: extend/extend.visual-composer.php:653
+#: extend/extend.visual-composer.php:1307
+#: extend/extend.visual-composer.php:1767
+#: extend/extend.visual-composer.php:1917
+#: extend/extend.visual-composer.php:2081
+#: extend/extend.visual-composer.php:2133
+#: extend/extend.visual-composer.php:2269
+msgid "Enable or disable element animation."
+msgstr ""
+
+#: extend/extend.visual-composer.php:183 extend/extend.visual-composer.php:394
+#: extend/extend.visual-composer.php:661
+#: extend/extend.visual-composer.php:1315
+#: extend/extend.visual-composer.php:1775
+#: extend/extend.visual-composer.php:1926
+#: extend/extend.visual-composer.php:2089
+#: extend/extend.visual-composer.php:2141
+#: extend/extend.visual-composer.php:2277
+msgid "Animation type"
+msgstr ""
+
+#: extend/extend.visual-composer.php:186 extend/extend.visual-composer.php:397
+#: extend/extend.visual-composer.php:664
+#: extend/extend.visual-composer.php:1318
+#: extend/extend.visual-composer.php:1778
+#: extend/extend.visual-composer.php:1929
+#: extend/extend.visual-composer.php:2092
+#: extend/extend.visual-composer.php:2144
+#: extend/extend.visual-composer.php:2280
+msgid "Select the type of animation for more info check documentation"
+msgstr ""
+
+#: extend/extend.visual-composer.php:194 extend/extend.visual-composer.php:487
+msgid "Icon offset"
+msgstr ""
+
+#: extend/extend.visual-composer.php:197 extend/extend.visual-composer.php:490
+msgid "Select the offset of the icon."
+msgstr ""
+
+#: extend/extend.visual-composer.php:205
+msgid "Parallax speed"
+msgstr ""
+
+#: extend/extend.visual-composer.php:208
+msgid "Select animation speed relative to scrolling speed."
+msgstr ""
+
+#: extend/extend.visual-composer.php:215
+msgid "Animated text"
+msgstr ""
+
+#: extend/extend.visual-composer.php:225
+#: extend/extend.visual-composer.php:1477
+msgid "Animate text"
+msgstr ""
+
+#: extend/extend.visual-composer.php:228 extend/extend.visual-composer.php:761
+#: extend/extend.visual-composer.php:990
+#: extend/extend.visual-composer.php:1480
+#: extend/extend.visual-composer.php:1536
+#: extend/extend.visual-composer.php:2457
+msgid "Animate element on scroll"
+msgstr ""
+
+#: extend/extend.visual-composer.php:235 extend/extend.visual-composer.php:769
+#: extend/extend.visual-composer.php:997
+#: extend/extend.visual-composer.php:1487
+msgid "Animation settings"
+msgstr ""
+
+#: extend/extend.visual-composer.php:239 extend/extend.visual-composer.php:773
+#: extend/extend.visual-composer.php:1001
+#: extend/extend.visual-composer.php:1491
+msgid "Set settings classes (See theme documentation)"
+msgstr ""
+
+#: extend/extend.visual-composer.php:245 extend/extend.visual-composer.php:842
+#: extend/extend.visual-composer.php:1238
+#: extend/extend.visual-composer.php:2352
+msgid "Content"
+msgstr ""
+
+#: extend/extend.visual-composer.php:249
+msgid "Enter content"
+msgstr ""
+
+#: extend/extend.visual-composer.php:256 extend/extend.visual-composer.php:780
+#: extend/extend.visual-composer.php:852
+#: extend/extend.visual-composer.php:1008
+#: extend/extend.visual-composer.php:1149
+#: extend/extend.visual-composer.php:1467
+#: extend/extend.visual-composer.php:1575
+#: extend/extend.visual-composer.php:1649
+#: extend/extend.visual-composer.php:1826
+#: extend/extend.visual-composer.php:2533
+msgid "Extra class"
+msgstr ""
+
+#: extend/extend.visual-composer.php:260 extend/extend.visual-composer.php:784
+#: extend/extend.visual-composer.php:856
+#: extend/extend.visual-composer.php:1471
+#: extend/extend.visual-composer.php:1579
+#: extend/extend.visual-composer.php:2002
+#: extend/extend.visual-composer.php:2291
+#: extend/extend.visual-composer.php:2419
+#: extend/extend.visual-composer.php:2537
+msgid "Extra class name"
+msgstr ""
+
+#: extend/extend.visual-composer.php:270
+msgid "Button"
+msgstr ""
+
+#: extend/extend.visual-composer.php:279
+msgid "Button type"
+msgstr ""
+
+#: extend/extend.visual-composer.php:282
+msgid "Select the type of button you want to display."
+msgstr ""
+
+#: extend/extend.visual-composer.php:291
+msgid "New Link"
+msgstr ""
+
+#: extend/extend.visual-composer.php:295
+msgid "The URL link of the button."
+msgstr ""
+
+#: extend/extend.visual-composer.php:301
+#: extend/extend.visual-composer.php:2644
+#: extend/extend.visual-composer.php:2645
+msgid "Action"
+msgstr ""
+
+#: extend/extend.visual-composer.php:305
+msgid "Javascript action to execute on click"
+msgstr ""
+
+#: extend/extend.visual-composer.php:311
+msgid "Shortcode tag"
+msgstr ""
+
+#: extend/extend.visual-composer.php:314
+msgid ""
+"Button element type. A elements supports open in new window and url, buttons "
+"supports just action"
+msgstr ""
+
+#: extend/extend.visual-composer.php:321
+#: extend/extend.visual-composer.php:2228
+msgid "Align"
+msgstr ""
+
+#: extend/extend.visual-composer.php:324
+msgid "Align button relative to parent width"
+msgstr ""
+
+#: extend/extend.visual-composer.php:332 extend/extend.visual-composer.php:758
+#: extend/extend.visual-composer.php:987
+msgid "Animate"
+msgstr ""
+
+#: extend/extend.visual-composer.php:335
+msgid "Link target is available just for 'a' tag."
+msgstr ""
+
+#: extend/extend.visual-composer.php:346
+msgid "Counter Box"
+msgstr ""
+
+#: extend/extend.visual-composer.php:355
+msgid "Values color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:358
+msgid "Choose the color of the values"
+msgstr ""
+
+#: extend/extend.visual-composer.php:364
+msgid "Text color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:367
+msgid "Choose the text color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:376
+msgid "Choose the icon color. Default : #393535"
+msgstr ""
+
+#: extend/extend.visual-composer.php:405
+msgid "Text"
+msgstr ""
+
+#: extend/extend.visual-composer.php:408
+msgid "Fill in the text you want."
+msgstr ""
+
+#: extend/extend.visual-composer.php:419
+msgid ""
+"Select the class of the font-awesome icon. (Here are all the font-awesome "
+"icons: https://fortawesome.github.io/Font-Awesome/icons/) // Use for "
+"example: fa-facebook"
+msgstr ""
+
+#: extend/extend.visual-composer.php:426
+msgid "Start at"
+msgstr ""
+
+#: extend/extend.visual-composer.php:430
+msgid "Counter start value"
+msgstr ""
+
+#: extend/extend.visual-composer.php:436
+msgid "End at"
+msgstr ""
+
+#: extend/extend.visual-composer.php:440
+msgid "Count up to"
+msgstr ""
+
+#: extend/extend.visual-composer.php:446
+msgid "Speed"
+msgstr ""
+
+#: extend/extend.visual-composer.php:455
+msgid "Refresh interval"
+msgstr ""
+
+#: extend/extend.visual-composer.php:465
+msgid "Data Stellar Ratio"
+msgstr ""
+
+#: extend/extend.visual-composer.php:469
+msgid "The position of each icon"
+msgstr ""
+
+#: extend/extend.visual-composer.php:476
+msgid "Value sufix"
+msgstr ""
+
+#: extend/extend.visual-composer.php:479
+msgid "Select the sufix of your value."
+msgstr ""
+
+#: extend/extend.visual-composer.php:497
+msgid "Countdown"
+msgstr ""
+
+#: extend/extend.visual-composer.php:516
+msgid "Logo"
+msgstr ""
+
+#: extend/extend.visual-composer.php:520
+msgid "Logo image"
+msgstr ""
+
+#: extend/extend.visual-composer.php:526
+msgid "Background"
+msgstr ""
+
+#: extend/extend.visual-composer.php:530
+msgid "Background image"
+msgstr ""
+
+#: extend/extend.visual-composer.php:537
+msgid "Stop Year"
+msgstr ""
+
+#: extend/extend.visual-composer.php:541
+msgid "The year when countdount will stop"
+msgstr ""
+
+#: extend/extend.visual-composer.php:549
+msgid "Stop Month"
+msgstr ""
+
+#: extend/extend.visual-composer.php:552
+msgid "The year when countdount will stop."
+msgstr ""
+
+#: extend/extend.visual-composer.php:562
+msgid "Stop Day"
+msgstr ""
+
+#: extend/extend.visual-composer.php:574
+msgid "Stop Hour"
+msgstr ""
+
+#: extend/extend.visual-composer.php:586
+msgid "Stop Minute"
+msgstr ""
+
+#: extend/extend.visual-composer.php:596
+msgid "Clients"
+msgstr ""
+
+#: extend/extend.visual-composer.php:606
+msgid "Clients Links"
+msgstr ""
+
+#: extend/extend.visual-composer.php:610
+msgid "Each client on new line. Pipe sepparated image and url"
+msgstr ""
+
+#: extend/extend.visual-composer.php:617
+#: extend/extend.visual-composer.php:2474
+msgid "Autoplay"
+msgstr ""
+
+#: extend/extend.visual-composer.php:620
+msgid "Enable or disable autoplay."
+msgstr ""
+
+#: extend/extend.visual-composer.php:628
+#: extend/extend.visual-composer.php:1742
+msgid "Target URL"
+msgstr ""
+
+#: extend/extend.visual-composer.php:631
+#: extend/extend.visual-composer.php:1284
+msgid "Choose the way the URL will open."
+msgstr ""
+
+#: extend/extend.visual-composer.php:639
+msgid "Show controls"
+msgstr ""
+
+#: extend/extend.visual-composer.php:642
+msgid "Display controls."
+msgstr ""
+
+#: extend/extend.visual-composer.php:672
+msgid "Animation start delay"
+msgstr ""
+
+#: extend/extend.visual-composer.php:675
+msgid "Select the delay when the animation starts."
+msgstr ""
+
+#: extend/extend.visual-composer.php:683
+msgid "Animation steps delay"
+msgstr ""
+
+#: extend/extend.visual-composer.php:686
+msgid "Select the delay of the animation steps."
+msgstr ""
+
+#: extend/extend.visual-composer.php:695 extend/extend.visual-composer.php:715
+msgid "Contact info"
+msgstr ""
+
+#: extend/extend.visual-composer.php:719
+msgid "Enter here your informations"
+msgstr ""
+
+#: extend/extend.visual-composer.php:725
+msgid "Element Link"
+msgstr ""
+
+#: extend/extend.visual-composer.php:729
+msgid "Insert link for "
+msgstr ""
+
+#: extend/extend.visual-composer.php:736 extend/extend.visual-composer.php:821
+msgid "Icon Color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:740 extend/extend.visual-composer.php:825
+msgid "Change icon color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:747 extend/extend.visual-composer.php:895
+msgid "Icon size"
+msgstr ""
+
+#: extend/extend.visual-composer.php:751
+msgid "Icon size in px"
+msgstr ""
+
+#: extend/extend.visual-composer.php:791
+msgid "Extra id"
+msgstr ""
+
+#: extend/extend.visual-composer.php:795
+msgid "Extra id name, note that you need a unique id across theme"
+msgstr ""
+
+#: extend/extend.visual-composer.php:802
+msgid "Contact Box"
+msgstr ""
+
+#: extend/extend.visual-composer.php:815 extend/extend.visual-composer.php:889
+msgid "See documentation for valid icons"
+msgstr ""
+
+#: extend/extend.visual-composer.php:831
+msgid "Icon Position"
+msgstr ""
+
+#: extend/extend.visual-composer.php:834
+msgid "Use this in order to remove border on last element"
+msgstr ""
+
+#: extend/extend.visual-composer.php:876
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: extend/extend.visual-composer.php:898
+msgid "Icon size relative to original"
+msgstr ""
+
+#: extend/extend.visual-composer.php:928
+msgid "Latest Projects Slider"
+msgstr ""
+
+#: extend/extend.visual-composer.php:938
+msgid "Number of projects to show"
+msgstr ""
+
+#: extend/extend.visual-composer.php:947
+#: extend/extend.visual-composer.php:1335
+#: extend/extend.visual-composer.php:1608
+msgid "Include just those projects"
+msgstr ""
+
+#: extend/extend.visual-composer.php:951
+#: extend/extend.visual-composer.php:1339
+#: extend/extend.visual-composer.php:1612
+msgid "Enter here IDs of projects to show"
+msgstr ""
+
+#: extend/extend.visual-composer.php:957
+#: extend/extend.visual-composer.php:1346
+#: extend/extend.visual-composer.php:1619
+msgid "Exclude those projects"
+msgstr ""
+
+#: extend/extend.visual-composer.php:961
+#: extend/extend.visual-composer.php:1350
+#: extend/extend.visual-composer.php:1623
+msgid "Enter here IDs of projects to ignore"
+msgstr ""
+
+#: extend/extend.visual-composer.php:967
+msgid "Include just those categories"
+msgstr ""
+
+#: extend/extend.visual-composer.php:971
+#: extend/extend.visual-composer.php:1360
+msgid "Enter here IDs of categories to show"
+msgstr ""
+
+#: extend/extend.visual-composer.php:977
+#: extend/extend.visual-composer.php:1366
+msgid "Exclude those categories"
+msgstr ""
+
+#: extend/extend.visual-composer.php:981
+#: extend/extend.visual-composer.php:1370
+msgid "Enter here IDs of categories to ignore"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1021
+msgid "Mesage box"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1030
+msgid "Message type"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1033
+msgid "Select message box type"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1040
+#: extend/extend.visual-composer.php:1043
+msgid "Dismissible message"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1051
+msgid "Message"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1055
+msgid "Enter your message here"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1061
+msgid "Google map"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1071
+msgid "Center of map"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1080
+msgid "Map style"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1083
+msgid "Choose map style"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1091
+msgid "Default zoom"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1101
+msgid "Zoom of map when click on a marker"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1112
+msgid "Marker coordinates"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1116
+msgid "Pipe separated address, latitude and longitude separted by comma"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1124
+msgid "Marker titles"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1128
+msgid "Pipe separated titles"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1136
+msgid "Marker content"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1140
+msgid "Pipe separated content of markers"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1173
+msgid "Price Table"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1183
+msgid "Price"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1186
+msgid "Set the price here."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1193
+msgid "Currency"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1196
+msgid "Select the currency you want."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1205
+msgid "Suffix"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1208
+msgid "Choose the billing cycle."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1215
+msgid "Suffix First"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1218
+msgid "Choose how the suffix will be displayed."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1230
+msgid "Set the title of your table."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1242
+msgid "Fill in the content."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1248
+msgid "Stars"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1251
+msgid "Rate the service which will be displayed."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1260
+msgid "Submit Label"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1263
+msgid ""
+"Type the name of the submission label, the name of the button. (For example: "
+"Buy now!)"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1271
+msgid "Submit URL"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1274
+msgid "Fill in the URL of the submit button."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1281
+msgid "Submit Target"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1292
+msgid "Remove button"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1295
+msgid "Remove the button from your table."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1356
+msgid "Include those categories"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1376
+msgid "Overlay visible on mobile"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1379
+msgid "Show overlay active by default on touch devices like project is hovered"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1386
+msgid "Boxed style"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1389
+#: extend/extend.visual-composer.php:1399
+msgid "Show portfolio items in container"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1396
+msgid "Portfolio grid style"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1406
+msgid "Display filters"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1409
+msgid "Display or not the project filters"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1416
+msgid "Filter background color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1420
+msgid "Color for background on portfolio filters"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1426
+msgid "Filter buttons color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1430
+msgid "Color for filter and border on portfolio filter buttons"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1436
+msgid "Filter hover color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1440
+msgid "Color for filter when hover"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1446
+msgid "Label for All projects"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1450
+msgid "Default: \"Show all\""
+msgstr ""
+
+#: extend/extend.visual-composer.php:1456
+msgid "Label for portfolio button"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1460
+msgid "Default: \"More\""
+msgstr ""
+
+#: extend/extend.visual-composer.php:1497
+msgid "Animation delay increase"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1501
+msgid "Animation delay for grouped items (in seconds)"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1513
+msgid "Slider background section"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1516
+#: extend/extend.visual-composer.php:2428
+msgid "Home sections"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1522
+msgid "Images"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1526
+msgid "Items to run into background slider"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1533
+#: extend/extend.visual-composer.php:2454
+msgid "Overlay content page"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1544
+#: extend/extend.visual-composer.php:2464
+msgid "Black overlay"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1547
+#: extend/extend.visual-composer.php:2467
+msgid "Add transparent overlay over content"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1555
+msgid "Duration"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1565
+msgid "Fade"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1597
+msgid "Order"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1600
+msgid "Order posts."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1628
+msgid "Social Icons Holder"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1640
+#: extend/extend.visual-composer.php:1806
+msgid "Image align"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1658
+msgid "Social Icons"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1673
+msgid ""
+"Select the class of the font-awesome icon. (Here are all the font-awesome "
+"icons: https://fortawesome.github.io/Font-Awesome/icons/) // Use for "
+"example: facebook"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1684
+msgid "Choose the color of the icon."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1691
+msgid "Icon background color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1694
+#: extend/extend.visual-composer.php:1704
+msgid "Choose the background color of the icon."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1701
+msgid "Icon background hover color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1711
+msgid "Icon color hover"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1714
+msgid "Choose the color of the hover icon."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1721
+msgid "Icon border color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1724
+msgid "Choose the color of the border."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1731
+msgid "Icon URL"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1734
+msgid "Fill in the URL of the icon."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1745
+msgid "Select the way you want the URL to open."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1753
+msgid "Border width"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1756
+msgid "Choose the width of the border."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1784
+msgid "Stellar Image (Parallax)"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1795
+msgid "Select image"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1799
+msgid "Choose the image to animate"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1815
+msgid "Movement ratio"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1818
+msgid "Set movement ratio (Default: 0.5)"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1835
+#: extend/extend.visual-composer.php:1879
+msgid "Subtitle"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1844
+#: extend/extend.visual-composer.php:2181
+msgid "Title Tag"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1847
+msgid "You can select the Subtitle tag - From H1 to H6"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1856
+msgid "Subtitle class"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1859
+#: extend/extend.visual-composer.php:1870
+msgid "Choose from available classes"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1867
+msgid "Alignment"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1883
+msgid "Type in the subtitle."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1891
+msgid "Subtitle color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1894
+msgid "Choose the color of the subtitle."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1902
+msgid "Subtitle small class color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1905
+msgid "Choose the color of the subtitle small class."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1936
+msgid "Separator"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1946
+msgid "Width"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1949
+msgid "Choose the width of the separator."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1957
+msgid "Height"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1960
+msgid "Choose the height of the separator."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1967
+msgid "Separator type"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1970
+msgid ""
+"Select the type of separator you want to display. Note that only the "
+"'separator' type can change it's color, the other two are simple images."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1978
+msgid "Separator centered"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1981
+msgid "Centered separator?"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1989
+msgid "Separator color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:1992
+msgid "This option is available only for the Line Separator type."
+msgstr ""
+
+#: extend/extend.visual-composer.php:1999
+#: extend/extend.visual-composer.php:2288
+#: extend/extend.visual-composer.php:2416
+msgid "Extra Class"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2100
+msgid "Include Testimonials"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2103
+msgid "Select the ID's of the testimonials you want to include."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2111
+msgid "Exclude Testimonials"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2114
+msgid "Select the ID's of the testimonials you want to exclude."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2120
+msgid "Team"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2152
+msgid "Initial delay"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2155
+msgid "Select the initial delay."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2163
+msgid "Increment delay"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2166
+msgid "Select the incremented delay."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2172
+msgid "Title Serif"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2184
+msgid "You can select the Title tag - From H1 to H6"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2194
+msgid "Title Class"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2197
+msgid "Choose Title class."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2206
+msgid "Show Line"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2209
+msgid "Choose to show or hide line on title."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2221
+msgid "Type in the title., wrap text into span class serif to apply serif"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2231
+msgid "Title alignment. Default center"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2238
+msgid "Title color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2241
+msgid "Choose the color of the title."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2247
+msgid "Serif color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2250
+msgid "Choose the color of the spanclass serif."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2256
+msgid "Title small class color"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2259
+msgid "Choose the color of the small class for the title."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2303
+msgid "Tabs"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2309
+msgid "Placeholder Parameter"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2312
+msgid ""
+"This is a placeholder parameter of the accordion container. It has no role "
+"or effect. Visual Composer does not display shortcodes without parameters."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2323
+msgid "Hero Elements"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2324
+msgid "Tab Item"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2339
+msgid "Icon"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2346
+msgid "Choose what icon do you want to use (use font awesome icons)."
+msgstr ""
+
+#: extend/extend.visual-composer.php:2354
+msgid "Content goes here"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2360
+msgid "Active tab ?"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2373
+msgid "Hero Tweeter Feed"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2383
+msgid "Username"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2386
+#: extend/extend.visual-composer.php:2397
+msgid "This username's posts"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2394
+msgid "Tweets Limit"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2405
+msgid "Date Format"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2408
+msgid "Default: M/d/Y"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2425
+msgid "Video background section"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2434
+msgid "Video"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2438
+msgid "Enter Video url"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2444
+msgid "Fallback image"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2448
+msgid "Falback image for devices that don`t support video background"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2477
+msgid "Automatically play the video"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2484
+#: extend/extend.visual-composer.php:2664
+msgid "Loop"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2487
+msgid "Play continously"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2494
+msgid "Highdef"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2503
+msgid "HD"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2512
+msgid "Ad Proof"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2515
+msgid "Remove ads"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2522
+#: extend/extend.visual-composer.php:2723
+#: extend/extend.visual-composer.php:2724
+#: extend/extend.visual-composer.php:2725
+msgid "Volume"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2527
+msgid "Play volume"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2555
+msgid "Fastwp Project Page"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2565
+#: extend/extend.visual-composer.php:2566
+#: extend/extend.visual-composer.php:2567
+#: extend/extend.visual-composer.php:2568
+#: extend/extend.visual-composer.php:2584
+msgid "User"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2569
+msgid "Trophy"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2570
+#: extend/extend.visual-composer.php:2571
+#: extend/extend.visual-composer.php:2593
+msgid "Screen"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2572
+msgid "Plane"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2573
+msgid "Notebook"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2574
+msgid "Moustache"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2575
+msgid "Mouse"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2576
+msgid "Magnet"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2577
+msgid "Energy"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2578
+msgid "Emoticon"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2579
+msgid "Disc"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2580
+#: extend/extend.visual-composer.php:2674
+msgid "Cursor"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2581
+msgid "Crop"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2582
+msgid "Credit"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2583
+msgid "Chemistry"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2585
+msgid "Speedometer"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2586
+#: extend/extend.visual-composer.php:2587
+#: extend/extend.visual-composer.php:2588
+#: extend/extend.visual-composer.php:2589
+#: extend/extend.visual-composer.php:2590
+#: extend/extend.visual-composer.php:2591
+msgid "Social"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2592
+msgid "Shield"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2594
+msgid "Magic"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2595
+msgid "Hourglass"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2596
+msgid "Graduation"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2597
+msgid "Ghost"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2598
+msgid "Game"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2599
+msgid "Fire"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2600
+msgid "Eyeglasses"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2601
+#: extend/extend.visual-composer.php:2602
+#: extend/extend.visual-composer.php:2698
+msgid "Envelope"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2603
+msgid "Bell"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2604
+msgid "Badge"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2605
+msgid "Anchor"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2606
+msgid "Wallet"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2607
+msgid "Vector"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2608
+msgid "Speech"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2609
+msgid "Puzzle"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2610
+msgid "Printer"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2611
+msgid "Present"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2612
+msgid "Playlist"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2613
+msgid "Pin"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2614
+msgid "Picture"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2615
+msgid "Map"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2616
+msgid "Layers"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2617
+msgid "Handbag"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2618
+#: extend/extend.visual-composer.php:2619
+msgid "Globe"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2620
+msgid "Frame"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2621
+#: extend/extend.visual-composer.php:2701
+msgid "Folder"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2622
+msgid "Film"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2623
+msgid "Feed"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2624
+#: extend/extend.visual-composer.php:2625
+msgid "Earphones"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2626
+msgid "Drop"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2627
+msgid "Drawer"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2628
+msgid "Docs"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2629
+msgid "Directions"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2630
+msgid "Direction"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2631
+msgid "Diamond"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2632
+msgid "Cup"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2633
+msgid "Compass"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2634
+#: extend/extend.visual-composer.php:2635
+#: extend/extend.visual-composer.php:2636
+msgid "Call"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2637
+msgid "Calculator"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2638
+msgid "Bubbles"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2639
+msgid "Briefcase"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2640
+msgid "Book"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2641
+#: extend/extend.visual-composer.php:2642
+msgid "Basket"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2643
+msgid "Bag"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2646
+msgid "Wrench"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2647
+msgid "Umbrella"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2648
+msgid "Trash"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2649
+msgid "Tag"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2650
+msgid "Support"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2651
+#: extend/extend.visual-composer.php:2652
+msgid "Size"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2653
+msgid "Shuffle"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2654
+#: extend/extend.visual-composer.php:2655
+msgid "Share"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2656
+msgid "Rocket"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2657
+msgid "Question"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2658
+msgid "Pie"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2659
+msgid "Pencil"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2660
+msgid "Note"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2661
+#: extend/extend.visual-composer.php:2662
+msgid "Music"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2663
+msgid "Microphone"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2665
+msgid "Logout"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2666
+msgid "Login"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2667
+msgid "List"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2668
+msgid "Like"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2669 fastwp/fastwp.user.interface.php:114
+#: fastwp/fastwp.user.interface.php:441
+msgid "Home"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2670
+msgid "Grid"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2671
+msgid "Graph"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2672
+msgid "Equalizer"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2673
+msgid "Dislike"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2675
+#: extend/extend.visual-composer.php:2676
+#: extend/extend.visual-composer.php:2677
+#: extend/extend.visual-composer.php:2678
+#: extend/extend.visual-composer.php:2679
+#: extend/extend.visual-composer.php:2680
+msgid "Control"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2681
+msgid "Calendar"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2682
+msgid "Bulb"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2683
+msgid "Bar"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2684
+#: extend/extend.visual-composer.php:2685
+#: extend/extend.visual-composer.php:2686
+#: extend/extend.visual-composer.php:2687
+msgid "Arrow"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2688
+msgid "Ban"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2689
+msgid "Bubble"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2690
+msgid "Camcorder"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2691
+msgid "Camera"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2692
+msgid "Check"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2693
+msgid "Clock"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2694
+msgid "Close"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2695
+#: extend/extend.visual-composer.php:2696
+msgid "Cloud"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2697
+msgid "Doc"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2699
+msgid "Eye"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2700
+msgid "Flag"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2702
+msgid "Heart"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2703
+msgid "Info"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2704
+msgid "Key"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2705
+msgid "Link"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2706
+#: extend/extend.visual-composer.php:2707
+msgid "Lock"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2708
+#: extend/extend.visual-composer.php:2709
+#: extend/extend.visual-composer.php:2710
+msgid "Magnifier"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2711
+#: extend/extend.visual-composer.php:2712
+msgid "Paper"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2713
+msgid "Plus"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2714
+msgid "Pointer"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2715
+msgid "Power"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2716
+msgid "Refresh"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2717
+msgid "Reload"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2718
+msgid "Settings"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2719
+msgid "Star"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2720
+#: extend/extend.visual-composer.php:2721
+msgid "Symbol"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2722
+msgid "Target"
+msgstr ""
+
+#: extend/extend.visual-composer.php:2726
+msgid "Users"
+msgstr ""
+
+#: extend-helpers/content-common.php:17
+msgid "Posted by "
+msgstr ""
+
+#: extend-helpers/content-common.php:17
+msgid "in "
+msgstr ""
+
+#: extend-helpers/content-common.php:23
+msgid " on "
+msgstr ""
+
+#: extend-helpers/content-common.php:26
+msgid "Tags: "
+msgstr ""
+
+#: extend-helpers/content-common.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: extend-helpers/content-common.php:41
+msgid "Read More"
+msgstr ""
+
+#: extend-helpers/content-common.php:44
+msgid "Pages:"
+msgstr ""
+
+#: extend-helpers/content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: extend-helpers/content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: extend-helpers/content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:119
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:123
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:147
+msgid "Move up"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:160
+msgid "Move down"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:162 fastwp/fastwp.admin.menu.php:164
+msgid "Edit Menu Item"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:174
+msgid "Menu Type"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:177
+msgid "Normal Page"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:178
+msgid "Onepage Section"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:179
+msgid "Page separator"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:187
+msgid "URL"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:194
+msgid "Navigation Label"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:200
+msgid "Title Attribute"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:207
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:212
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:218
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:224
+msgid "Description"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:226
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:242
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:255
+msgid "Remove"
+msgstr ""
+
+#: fastwp/fastwp.admin.menu.php:256
+msgid "Cancel"
+msgstr ""
+
+#: fastwp/fastwp.core.actions.php:51
+msgid "Main navigation menu"
+msgstr ""
+
+#: fastwp/fastwp.core.actions.php:148
+msgid "Item ID"
+msgstr ""
+
+#: fastwp/lib/php/admin.interface.php:53
+msgid "On"
+msgstr ""
+
+#: fastwp/lib/php/admin.interface.php:54
+msgid "Off"
+msgstr ""
+
+#: fastwp/lib/php/admin.interface.php:89
+msgid "No items in gallery"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:393
+#: fastwp/lib/php/plugin.activator.php:912
+#: fastwp/lib/php/plugin.activator.php:2618
+#: fastwp/lib/php/plugin.activator.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:394
+#: fastwp/lib/php/plugin.activator.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:395
+#: fastwp/lib/php/plugin.activator.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:608
+msgid "Update Required"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:1019
+#: fastwp/lib/php/plugin.activator.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:1206
+#: fastwp/lib/php/plugin.activator.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2358
+msgid "Required"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2380
+msgid "External Source"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2406
+msgid "Active"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp/lib/php/plugin.activator.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2633
+msgid "Source"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2634
+msgid "Type"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2638
+msgid "Version"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2639
+msgid "Status"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2802
+msgid "Install"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2808
+msgid "Update"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2811
+msgid "Activate"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3594
+#: fastwp/lib/php/plugin.activator.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3594
+#: fastwp/lib/php/plugin.activator.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: fastwp/lib/php/plugin.activator.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
