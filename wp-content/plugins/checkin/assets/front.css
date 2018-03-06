@@ -1,0 +1,85 @@
+.post-header {
+  padding: 8em 2em 6em;
+  background-color: #eee;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end; }
+  .post-header .header {
+    font-size: 3em;
+    text-align: left;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
+    padding: 0 0.25em;
+    line-height: 125%;
+    display: inline-block; }
+  .post-header .sub-header {
+    font-size: 2em;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 0 0.25em;
+    display: inline-block; }
+
+.post-meta {
+  display: block;
+  padding: 0.5em;
+  text-align: center;
+  background: #f9f9f9; }
+  .post-meta .meta {
+    display: inline-block;
+    padding: 0 0.5em; }
+  .post-meta .dotter {
+    display: inline-block;
+    color: #777; }
+
+.post-content,
+.post-venue-container {
+  display: block;
+  padding: 0.5em;
+  background: #fff;
+  line-height: 200%; }
+  .post-content .meta, .post-content .dotter,
+  .post-venue-container .meta,
+  .post-venue-container .dotter {
+    display: inline-block;
+    vertical-align: middle; }
+  .post-content .dotter,
+  .post-venue-container .dotter {
+    margin: 0 0.25em; }
+
+.post-venue-container {
+  border-top: 1px solid #eee; }
+
+.venue-anchor {
+  display: block;
+  outline: 0;
+  text-decoration: none;
+  border: none !important; }
+  .venue-anchor .venue-caller {
+    display: block;
+    background-size: cover;
+    background-position: center; }
+    .venue-anchor .venue-caller .overlay {
+      display: block;
+      padding: 2em;
+      background: rgba(0, 0, 0, 0.5);
+      -webkit-transition: all 0.25s ease-in-out;
+      -moz-transition: all 0.25s ease-in-out;
+      -o-transition: all 0.25s ease-in-out;
+      transition: all 0.25s ease-in-out; }
+      .venue-anchor .venue-caller .overlay .header {
+        display: block;
+        text-align: center;
+        font-size: 2em;
+        color: #fff; }
+      .venue-anchor .venue-caller .overlay .venue {
+        display: block;
+        text-align: center;
+        color: #fff;
+        font-size: 1.5em; }
+  .venue-anchor:hover .venue-caller .overlay, .venue-anchor:active .venue-caller .overlay {
+    background: rgba(0, 0, 0, 0.85); }
+
+/*# sourceMappingURL=front.css.map */

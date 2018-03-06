@@ -1,0 +1,90 @@
+.venue-search-container {
+    .venue-search-box {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+
+        .search {
+            height: 30px;
+            line-height: 28px;
+            padding: 0 12px 2px;
+            font-size: 13px;
+            width: 42.5%;
+        }
+    }
+
+	.venues-list {
+		padding-top: 0.25em;
+
+		#loader {
+			display: block;
+			width: 1.5em;
+			height: 1.5em;
+			background: #ddd;
+			border-radius: 100%;
+			margin: 1em auto;
+
+			-webkit-animation: loading 2s infinite;
+			-moz-animation:    loading 2s infinite;
+			-o-animation:      loading 2s infinite;
+			animation:         loading 2s infinite;
+		}
+
+		.venue {
+			display: block;
+		    border-bottom: 1px solid #ddd;
+		    padding: 1em 0.85em;
+		    text-align: left;
+		    cursor: pointer;
+
+			h1 { padding-top: 0; }
+
+			&:hover,
+			&:active { background-color: #f9f9f9; }
+		}
+	}
+}
+
+.venue-selection-container {
+	.selected-venue {
+		display: block;
+		cursor: pointer;
+		border-right: 3px solid transparent;
+
+		&:hover,
+		&:active { border-color: #e74c3c; }
+	}
+}
+
+.visible { display: block; }
+
+@-webkit-keyframes loading {
+	0% { transform: scale(1); }
+	25% { transform: scale(0.8); }
+	50% { transform: scale(1.2); }
+	75% { transform: scale(0.8); }
+	100% { transform: scale(1); }
+}
+@-moz-keyframes loading {
+	0% { transform: scale(1); }
+	25% { transform: scale(0.8); }
+	50% { transform: scale(1.2); }
+	75% { transform: scale(0.8); }
+	100% { transform: scale(1); }
+}
+@-o-keyframes loading {
+	0% { transform: scale(1); }
+	25% { transform: scale(0.8); }
+	50% { transform: scale(1.2); }
+	75% { transform: scale(0.8); }
+	100% { transform: scale(1); }
+}
+@keyframes loading {
+	0% { transform: scale(1); }
+	25% { transform: scale(0.8); }
+	50% { transform: scale(1.2); }
+	75% { transform: scale(0.8); }
+	100% { transform: scale(1); }
+}
